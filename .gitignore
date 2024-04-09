@@ -1,2 +1,2 @@
-# Ignore Python virtual environment directories
+# Ignore virtual environment files
 venv/
